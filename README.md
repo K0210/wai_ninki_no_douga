@@ -2,4 +2,5 @@
 このhtmlで私の運営しているyoutubeチャンネルで再生数が最も多い動画をGitHubにアップロードしたものが見られるはず。  <br>
 恐らくHTML Living Standardで書かれています。<br>
 一番下の入力フォームに入力しても何も起きません。<br>
-shift jisとutf-8はあまりファイルサイズが変わらない(utf-8の方が小さい場合あり)ので文字化けしにくいutf-8を推奨します。
+shift jisとutf-8はあまりファイルサイズが変わらない(utf-8の方が小さい場合あり)ので文字化けしにくいutf-8を推奨します。<br>
+<a href=index_utf-8.html>click here</a>
