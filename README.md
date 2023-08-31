@@ -7,7 +7,7 @@ shift jisとutf-8はあまりファイルサイズが変わらない(※3)ので
 <a href="index_utf-8.html">utf-8はこちら</a><br>
 <a href="index_Shift_JIS.html">Shift JISはこちら</a><br>
 
-<a href="movie2/">一位の動画</a>(※4,5)
+<a href="movie2/">一位の動画</a>(※4,5)<br>
 <a href="movie1/">まあまあ上手く出来た動画</a>(※6)
 
 ※1 2023/8/31(※7)時点では少なくとも2023/6/1(※7)以降2番目が続いています。(※5,8)<br>
