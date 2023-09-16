@@ -6,7 +6,7 @@ shift jisとutf-8はあまりファイルサイズが変わらない(※3)ので
 
 <a href="index_utf-8.html">utf-8はこちら</a><br>
 <a href="index_Shift_JIS.html">Shift JISはこちら</a><br>
-<a herf="main_amp">ampはこちら</a>
+<a href="main_amp">ampはこちら</a>
 
 <a href="movie2/">一位の動画</a>(※4,5)<br>
 <a href="movie1/">まあまあ上手く出来た動画</a>(※6)
