@@ -20,6 +20,12 @@ header{
   main{
   padding: 150px;
 }
+.pc { display: block !important; }
+.sp { display: none !important; }
+@media only screen and (max-width: 750px) {
+    .pc { display: none !important; }
+    .sp { display: block !important; }
+}
   @media (prefers-color-scheme: dark) {
   body {
     background-color: rgba(0,0,0,1);
@@ -36,18 +42,32 @@ header{
 <h1>テキトーに合わせたら案外合ってた　＃プロセカ</h1>
 </header>
 <main>
+<div class="pc" alt="パソコン用の画像">
 <amp-video 
 width="720" 
 height="1280" 
 sizes=45%
 layout="responsive"
-poster="C:\Users\kanep\Downloads\hq720_2_宵崎奏.webp"
 controls>
 <source src="https://user-images.githubusercontent.com/119788148/232477889-9d5ec706-8068-4641-a2c1-f1b30fb4446e.mp4" type="video/mp4" />
 <div fallback>
 <p>動画ファイルを再生できません</p>
 </div>
 </amp-video>
+</div>
+<div class="sp" alt="スマートフォン用の画像">
+<amp-video 
+width="720" 
+height="1280" 
+sizes=45%
+layout="responsive"
+controls>
+<source src="https://user-images.githubusercontent.com/119788148/232477889-9d5ec706-8068-4641-a2c1-f1b30fb4446e.mp4" type="video/mp4" />
+<div fallback>
+<p>動画ファイルを再生できません</p>
+</div>
+</amp-video>
+</div>
 </main>
 <footer>
 <label for="www">www:</label>
